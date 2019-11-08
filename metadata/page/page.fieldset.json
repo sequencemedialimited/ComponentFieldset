@@ -72,14 +72,16 @@
             {
               "_id": "page.fieldset--fieldset--checkboxes--checkbox.auto_name__7",
               "_type": "checkbox",
-              "label": "Yes",
-              "name": "auto_name__7"
+              "label": "One",
+              "name": "auto_name__7",
+              "value": "1"
             },
             {
               "_id": "page.fieldset--fieldset--checkboxes--checkbox.auto_name__8",
               "_type": "checkbox",
-              "label": "No",
-              "name": "auto_name__8"
+              "label": "Two",
+              "name": "auto_name__8",
+              "value": "2"
             }
           ],
           "legend": "Checkboxes"
