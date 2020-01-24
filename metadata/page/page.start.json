@@ -3,9 +3,12 @@
   "_type": "page.start",
   "heading": "Component - Fieldset",
   "steps": [
-    "page.fieldset",
-    "page.check-answers",
-    "page.confirmation"
+    "page.fieldset-first",
+    "page.fieldset-second",
+    "page.fieldset-third",
+    "page.fieldset-fourth",
+    "page.fieldset-summary",
+    "page.fieldset-confirmation"
   ],
   "url": "/"
 }
